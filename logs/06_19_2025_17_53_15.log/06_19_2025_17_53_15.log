@@ -1,0 +1,5 @@
+[2025-06-19 17:53:19,345] 160 numexpr.utils - INFO -NumExpr defaulting to 4 threads. 
+[2025-06-19 17:53:25,656] 24 root - INFO -Entered the data ingestion method or component 
+[2025-06-19 17:53:25,682] 27 root - INFO -Read the Dataset as dataframe 
+[2025-06-19 17:53:25,688] 33 root - INFO -Trin Test Split initiated 
+[2025-06-19 17:53:25,698] 39 root - INFO -Ingestion of data is completed 
