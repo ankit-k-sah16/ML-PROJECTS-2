@@ -1,0 +1,14 @@
+[2025-06-25 17:49:17,235] 97 werkzeug - WARNING - * Debugger is active! 
+[2025-06-25 17:49:17,253] 97 werkzeug - INFO - * Debugger PIN: 503-515-456 
+[2025-06-25 17:49:20,143] 97 werkzeug - INFO -127.0.0.1 - - [25/Jun/2025 17:49:20] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 - 
+[2025-06-25 17:49:20,737] 97 werkzeug - INFO -127.0.0.1 - - [25/Jun/2025 17:49:20] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 - 
+[2025-06-25 17:49:20,738] 97 werkzeug - INFO -127.0.0.1 - - [25/Jun/2025 17:49:20] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 - 
+[2025-06-25 17:49:20,837] 97 werkzeug - INFO -127.0.0.1 - - [25/Jun/2025 17:49:20] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=KxcQWbOWuZAEcD1gjS4X HTTP/1.1" 200 - 
+[2025-06-25 17:49:20,852] 97 werkzeug - INFO -127.0.0.1 - - [25/Jun/2025 17:49:20] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 - 
+[2025-06-25 17:49:25,554] 97 werkzeug - INFO -127.0.0.1 - - [25/Jun/2025 17:49:25] "GET /predictdata HTTP/1.1" 200 - 
+[2025-06-25 17:49:47,932] 97 werkzeug - INFO -127.0.0.1 - - [25/Jun/2025 17:49:47] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 - 
+[2025-06-25 17:49:47,973] 97 werkzeug - INFO -127.0.0.1 - - [25/Jun/2025 17:49:47] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 - 
+[2025-06-25 17:49:47,975] 97 werkzeug - INFO -127.0.0.1 - - [25/Jun/2025 17:49:47] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 - 
+[2025-06-25 17:49:48,050] 97 werkzeug - INFO -127.0.0.1 - - [25/Jun/2025 17:49:48] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=KxcQWbOWuZAEcD1gjS4X HTTP/1.1[0m" 304 - 
+[2025-06-25 17:49:48,060] 97 werkzeug - INFO -127.0.0.1 - - [25/Jun/2025 17:49:48] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 - 
+[2025-06-25 17:52:30,856] 97 werkzeug - INFO - * Detected change in 'D:\\MLproject2\\source\\components\\data_transformation.py', reloading 
